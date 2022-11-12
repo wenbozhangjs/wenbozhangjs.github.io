@@ -6,8 +6,7 @@ papers:
     paper-type: inproceedings
     img: WSDM2018
     title: "A Continual Pre-training Approach to Tele-Triaging Pregnant Women in Kenya"
-    authors: <span class="color-blue">Wenbo Zhang</span>, Hangzhi Guo, Prerna Ranganathan, Jay Patel, Sathyanath Rajasekharan, Nidhi Danayak, Manan
-Gupta, Amulya Yadav
+    authors: <span class="color-blue">Wenbo Zhang</span>, Hangzhi Guo, Prerna Ranganathan, Jay Patel, Sathyanath Rajasekharan, Nidhi Danayak, Manan Gupta, Amulya Yadav
     booktitle: In Proc. 37th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>) (under review)
     booktitle-url: papers/WSDM_demos_2018_paper.pdf
     doc-url: papers/WSDM_demos_2018_paper.pdf
