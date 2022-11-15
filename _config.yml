@@ -8,7 +8,7 @@ papers:
     title: "A Continual Pre-training Approach to Tele-Triaging Pregnant Women in Kenya"
     authors: <span class="color-blue">Wenbo Zhang</span>, Hangzhi Guo, Prerna Ranganathan, Jay Patel, Sathyanath Rajasekharan, Nidhi Danayak, Manan Gupta, Amulya Yadav
     booktitle: 37th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)
-    notes: <span><strong style="color:red;">Full-time deployed @ Jacaranda Health</strong></span>
+    notes: <span><strong style="color:red;"> • Full-time deployed @ Jacaranda Health</strong></span>
     booktitle-url: papers/WSDM_demos_2018_paper.pdf
     doc-url: papers/WSDM_demos_2018_paper.pdf
     venue: workshop
