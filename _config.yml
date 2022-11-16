@@ -9,8 +9,8 @@ papers:
     authors: <span class="color-blue">Wenbo Zhang</span>, Hangzhi Guo, Prerna Ranganathan, Jay Patel, Sathyanath Rajasekharan, Nidhi Danayak, Manan Gupta, Amulya Yadav
     booktitle: 37th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)
     notes: <span><strong style="color:red;"> • Full-time deployed @ Jacaranda Health</strong></span>
-    booktitle-url: papers/WSDM_demos_2018_paper.pdf
-    doc-url: papers/WSDM_demos_2018_paper.pdf
+    booktitle-url: papers/AAAI_2023.pdf
+    doc-url: papers/AAAI_2023.pdf
     venue: workshop
     abstract: >
         Access to high-quality maternal health care services is limited in Kenya, which resulted in ~36,000 maternal and neonatal deaths in 2018. 
